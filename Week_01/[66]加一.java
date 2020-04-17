@@ -15,7 +15,6 @@ class Solution {
             if (nums[i] != 9) {
                 nums[i]++;
                 break;
-                ;
             } else {
                 nums[i] = 0;
             }
